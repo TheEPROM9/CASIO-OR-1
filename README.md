@@ -3,4 +3,4 @@ Schematices, design files & everything I have on revercse engineering efforts on
 
 I intend to have these as Open Source projects so the comunity can edit & improve the design files. I am hopeing we can find a way to use modern RAM chips so we can truyely make repoductions of these RAM cards as original ones are hard to find & exspnsive.
 
-Link to project: [Link](https://www.theeprom9.co.uk/vintage-computers/reverse-engineering-computers)
+Link to project: [CASIO OR-1 RAM Pack](https://www.theeprom9.co.uk/vintage-computers/reverse-engineering-computers)
